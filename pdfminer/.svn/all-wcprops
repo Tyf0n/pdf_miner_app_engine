@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/228/trunk/pdfminer/pdfminer
+END
+rijndael.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/170/trunk/pdfminer/pdfminer/rijndael.py
+END
+pdfdevice.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/226/trunk/pdfminer/pdfminer/pdfdevice.py
+END
+pdfinterp.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/214/trunk/pdfminer/pdfminer/pdfinterp.py
+END
+latin_enc.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/150/trunk/pdfminer/pdfminer/latin_enc.py
+END
+encodingdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/162/trunk/pdfminer/pdfminer/encodingdb.py
+END
+fontmetrics.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/150/trunk/pdfminer/pdfminer/fontmetrics.py
+END
+pdftypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/202/trunk/pdfminer/pdfminer/pdftypes.py
+END
+psparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/222/trunk/pdfminer/pdfminer/psparser.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/210/trunk/pdfminer/pdfminer/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/202/trunk/pdfminer/pdfminer/utils.py
+END
+pdffont.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/209/trunk/pdfminer/pdfminer/pdffont.py
+END
+arcfour.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/170/trunk/pdfminer/pdfminer/arcfour.py
+END
+ascii85.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/151/trunk/pdfminer/pdfminer/ascii85.py
+END
+runlength.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/167/trunk/pdfminer/pdfminer/runlength.py
+END
+converter.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/221/trunk/pdfminer/pdfminer/converter.py
+END
+pdfcolor.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/154/trunk/pdfminer/pdfminer/pdfcolor.py
+END
+lzw.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/151/trunk/pdfminer/pdfminer/lzw.py
+END
+layout.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/226/trunk/pdfminer/pdfminer/layout.py
+END
+glyphlist.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/150/trunk/pdfminer/pdfminer/glyphlist.py
+END
+cmapdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/228/trunk/pdfminer/pdfminer/cmapdb.py
+END
+pdfparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/209/trunk/pdfminer/pdfminer/pdfparser.py
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/181/trunk/pdfminer/pdfminer/Makefile
+END

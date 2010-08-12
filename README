@@ -1,0 +1,11 @@
+PDF Miner for Google App Engine in Python
+pdf_miner_app_engine
+Read, parse, and edit PDF files on Google App Engine Python as a web service.
+http://github.com/andrewdyates/pdf_miner_app_engine
+Copyright © 2010 Andrew D. Yates
+andrew.yates@hhmds.com
+
+PDF Miner by Yusuke Shinyama
+http://www.unixuser.org/~euske/python/pdfminer
+
+Included pdfminer version may not be the latest version.
