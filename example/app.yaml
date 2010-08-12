@@ -1,0 +1,23 @@
+# Copyright © 2010 Andrew D. Yates
+# All Rights Reserved.
+
+# Instructions:
+  
+# 1) Copy this directory. This copy is your app engine application.
+
+# 2) Copy pdf_miner_app_engine to your application
+# directory. Optionally, delete the "pdf_miner_app_engine/example"
+# directory
+
+# 3) Change the application id from "example" to your App Engine id.
+
+
+application: example
+api_version: 1
+runtime: python
+version: 1
+
+handlers:
+  
+  - url: /
+    script: pdf_to_text_webapp.py

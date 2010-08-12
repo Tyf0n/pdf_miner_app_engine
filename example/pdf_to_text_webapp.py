@@ -6,7 +6,7 @@
 
 Install this document to a Google App Engine Python instance and map
 this document to a url in the app.yaml configuration to use this
-document as indended by the author.
+document as intended by the author.
 
 Google App Engine at:
 http://code.google.com/appengine/
@@ -19,7 +19,7 @@ import os
 from google.appengine.ext import webapp
 from google.appengine.ext.webapp.util import run_wsgi_app
 
-import pdf_miner
+import pdf_miner_app_engine as pdf_miner
 
 
 class PDFConverter(webapp.RequestHandler):
