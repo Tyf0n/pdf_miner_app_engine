@@ -1,20 +1,45 @@
 PDF Miner for Google App Engine in Python
 pdf_miner_app_engine
+===
 Read, parse, and edit PDF files on Google App Engine Python as a web service.
+
 Copyright © 2010 Andrew D. Yates
 andrew.yates@hhmds.com
+
+Version 1.0
+
 http://github.com/andrewdyates/pdf_miner_app_engine
+git://github.com/andrewdyates/pdf_miner_app_engine.git
 
-Version 1
+===
+Example Use
+===
 
-"/example" is an example of an App Engine deployment of
-pdf_miner_app_engine
+"/example" is an example pdf_miner_app_engine App Engine deployment
+using webapp.
+ 
+Instructions:
+  
+1) Copy the example directory. This copy is your app engine application.
+
+$ cd pdf_miner_app_engine
+$ cp -r example ../example_pdf_miner_app
+$ cd ../example_pdf_miner_app
+
+2) Clone pdf_miner_app_engine into your application.
+
+$ git clone git://github.com/andrewdyates/pdf_miner_app_engine.git
+
+3) Test your application in App Engine locally.
+
+$ dev_appserver.py .
+
+4) Visit http://localhost:8080 in a web browser. The application will
+prompt you to upload a pdf file. Upload the example pdf file included
+as "pdf_miner_app_engine/example/sample.pdf" to verify functionality.
+
 
 === 
 
 PDF Miner by Yusuke Shinyama
 http://www.unixuser.org/~euske/python/pdfminer
-
-Included pdfminer version may not be the latest version. pdfminer SVN
-source repository included for pdfminer updates.
-
