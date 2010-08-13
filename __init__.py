@@ -22,7 +22,7 @@ from pdfminer.layout import LAParams
 def pdf_to_text(pdf):
   """Return extracted text from PDF.
 
-  Warning: This is slow... about 300ms per page
+  Warning: This function can be slow... up to 300ms per page
   This function does not perform optical character recognition.
 
   Args:
