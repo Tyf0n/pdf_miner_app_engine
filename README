@@ -4,7 +4,6 @@ pdf_miner_app_engine
 Read, parse, and edit PDF files on Google App Engine Python as a web service.
 
 Copyright © 2010 Andrew D. Yates
-andrew.yates@hhmds.com
 
 Version 1.0
 
