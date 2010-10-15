@@ -11,8 +11,6 @@ jpeg image extraction.
 PDFMiner by Yusuke Shinyama
 http://www.unixuser.org/~euske/python/pdfminer
 """
-__authors__ = ['"Andrew D. Yates", <andrew.yates@hhmds.com>']
-
 
 import StringIO
 
