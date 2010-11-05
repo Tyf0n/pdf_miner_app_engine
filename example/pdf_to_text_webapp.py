@@ -34,7 +34,7 @@ class PDFConverter(webapp.RequestHandler):
 
   def post(self):
     """Convert, parse and print text from converted PDF."""
-    pdf = self.request.get("pdf_file")
+    pdf = self.request.POST['pdf_file'].file.read()
     text = pdf_miner.pdf_to_text(pdf)
     self.write("<html><body>")
     self.write("<h1>Converted PDF Text</h1>")
