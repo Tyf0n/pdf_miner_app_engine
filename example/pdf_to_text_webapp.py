@@ -27,7 +27,7 @@ class PDFConverter(webapp.RequestHandler):
     self.write("<h1>Upload Text PDF</h1>")
     self.write('<form action="%s" method="POST" enctype="multipart/form-data">' \
                  % os.environ['PATH_INFO'])
-    self.write('<input type="file" name="pdf_file">')
+    self.write('<input type="file" name="pdf_file" />')
     self.write('<input type="submit" value="Submit" />')
     self.write("</form>")
     self.write("</body></html>")
