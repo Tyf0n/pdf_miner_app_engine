@@ -3,16 +3,7 @@
 # Copyright © 2010 Andrew D. Yates
 # All Rights Reserved.
 """Simple HTML form to upload a text PDF and print as text.
-
-Install this document to a Google App Engine Python instance and map
-this document to a url in the app.yaml configuration to use this
-document as intended by the author.
-
-Google App Engine at:
-http://code.google.com/appengine/
 """
-__authors__ = ['"Andrew D. Yates" <andrew.yates@hhmds.com>']
-
 
 import os
 
